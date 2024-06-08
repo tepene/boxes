@@ -1,0 +1,14 @@
+{
+  "peacock.remoteColor": "#9e3e56",
+  "cSpell.enableFiletypes": [
+    "shellscript"
+  ],
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#bc536d",
+    "statusBar.background": "#9e3e56",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#bc536d",
+    "statusBarItem.remoteBackground": "#9e3e56",
+    "statusBarItem.remoteForeground": "#e7e7e7"
+  }
+}
