@@ -1,4 +1,8 @@
+devcontainer
 distrobox
+ENDCOLOR
+gitmessage
+LAZYGIT
 libnotify
 ouex
 Xtst
