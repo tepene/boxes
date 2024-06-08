@@ -24,6 +24,13 @@ LAZYGIT_TMP="/tmp/lazygit.tar.gz"
 wget -O "${LAZYGIT_TMP}" "${LAZYGIT_SOURCE}"
 sudo tar -xf "${LAZYGIT_TMP}" -C /usr/bin
 
+## cosign
+COSIGN_SOURCE="https://github.com/sigstore/cosign/releases/latest/download/cosign-linux-amd64"
+COSIGN_TMP="/tmp/cosign"
+wget -O "${COSIGN_TMP}" "${COSIGN_SOURCE}"
+sudo mv "${COSIGN_TMP}" /usr/bin
+sudo chmod +x /usr/bin/cosign
+
 # Add git commit template
 echo ""
 echo -e "${YELLOW}Configuring git${ENDCOLOR}"
