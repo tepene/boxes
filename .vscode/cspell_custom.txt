@@ -1,3 +1,6 @@
+buildah
+Containerfile
+containerfiles
 devcontainer
 distrobox
 ENDCOLOR
@@ -5,4 +8,5 @@ gitmessage
 LAZYGIT
 libnotify
 ouex
+protonapps
 Xtst

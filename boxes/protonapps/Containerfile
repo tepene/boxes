@@ -1,11 +1,11 @@
 FROM ghcr.io/ublue-os/fedora-toolbox:latest
 
 ## Add files
-COPY box.sh /opt/boxes/box.sh
-COPY install.sh /boxes/install.sh
+COPY box.sh /opt/protonapps/box.sh
+COPY install.sh /build/install.sh
 
 ## Install packages & cleanup
-RUN chmod +x /boxes/install.sh && \
-    /boxes/install.sh && \
+RUN chmod +x /build/install.sh && \
+    /build/install.sh && \
     dnf clean all && \
-    rm -rf /boxes
+    rm -rf /build

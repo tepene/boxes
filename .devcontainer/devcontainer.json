@@ -75,7 +75,8 @@
         "ms-azuretools.vscode-docker",
         "mutantdino.resourcemonitor",
         "streetsidesoftware.code-spell-checker-german",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "github.vscode-github-actions"
       ]
     }
   }

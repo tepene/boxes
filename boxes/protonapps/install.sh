@@ -3,8 +3,8 @@
 set -ouex pipefail
 
 ## Global variables
-DOWNLOAD_DIR="/box"
-SCRIPT_DIR="/opt/box"
+DOWNLOAD_DIR="/build"
+SCRIPT_DIR="/opt/protonapps"
 
 ## Install dependencies
 ### this script
