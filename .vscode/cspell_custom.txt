@@ -9,4 +9,7 @@ LAZYGIT
 libnotify
 ouex
 protonapps
+quadlet
+realpath
+tepene
 Xtst

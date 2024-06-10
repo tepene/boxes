@@ -4,7 +4,7 @@ set -ouex pipefail
 
 ## Global variables
 DOWNLOAD_DIR="/build"
-SCRIPT_DIR="/opt/protonapps"
+SCRIPT_DIR="/opt/utils"
 
 ## Install dependencies
 ### this script

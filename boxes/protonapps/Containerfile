@@ -1,7 +1,7 @@
 FROM ghcr.io/ublue-os/fedora-toolbox:latest
 
 ## Add files
-COPY box.sh /opt/protonapps/box.sh
+COPY utils /opt/utils
 COPY install.sh /build/install.sh
 
 ## Install packages & cleanup
