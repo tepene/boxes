@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/tepene/boxes/compare/v1.0.0...v1.1.0) (2024-06-10)
+
+
+### Features
+
+* add proton-mail to protonapps ([#2](https://github.com/tepene/boxes/issues/2)) ([ef9aae1](https://github.com/tepene/boxes/commit/ef9aae1bfebd13656c40045986d9f559538668bb))
+
+
+### Bug Fixes
+
+* **ci:** build on push only in main branch ([c112f5a](https://github.com/tepene/boxes/commit/c112f5a205eb23724afc1ccbf69dfae6bf917f86))
+
 ## 1.0.0 (2024-06-10)
 
 
