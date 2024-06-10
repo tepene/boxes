@@ -3,7 +3,7 @@
 This repository holds all my custom Distrobox images which I use to get apps
 running on [bluefin-dx](https://projectbluefin.io/) where an official [Flatpak](https://flathub.org/)
 version is missing. There might be community driven Flatpaks out there for these apps
-but I really think Flatpaks for certain apps should be build by the application owners and
+but I really think Flatpaks for certain apps should be built by the application owners and
 not by the community.
 
 ## Base Images

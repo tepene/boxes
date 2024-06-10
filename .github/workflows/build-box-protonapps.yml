@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "20 23 * * *" # 10:23pm everyday
   push:
+    branches:
+      - main
 env:
   IMAGE_NAME: protonapps
   IMAGE_TAGS: latest ${{ github.sha }}

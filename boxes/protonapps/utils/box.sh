@@ -8,6 +8,7 @@ QUADLET_FILE="${QUADLET_NAME}.container"
 QUADLET_SERVICE="${QUADLET_NAME}.service"
 
 ## Export apps
+distrobox-export --app proton-mail
 distrobox-export --app proton-pass
 
 ## Systemd quadlet
