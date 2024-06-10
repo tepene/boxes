@@ -4,6 +4,8 @@ containerfiles
 devcontainer
 distrobox
 ENDCOLOR
+Flatpak
+Flatpaks
 gitmessage
 LAZYGIT
 libnotify
@@ -11,5 +13,7 @@ ouex
 protonapps
 quadlet
 realpath
+Repobeats
+sisgstore's
 tepene
 Xtst
