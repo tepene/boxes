@@ -2,6 +2,7 @@
 
 This image provides the following selected [Proton Apps](https://protonapps.com/):
 
+- [Proton Mail](https://proton.me/mail)
 - [Proton Pass](https://proton.me/pass)
 
 ## Installation
