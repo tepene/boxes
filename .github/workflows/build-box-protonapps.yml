@@ -1,4 +1,4 @@
-name: Build and Push Proton-A container
+name: Build and Push Proton Apps container
 on: [push]
 env:
   IMAGE_NAME: protonapps
